@@ -1,0 +1,43 @@
+body{
+    background-color: #bcc3bd;
+}
+
+.save_div{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputs{
+
+    width: 120%;
+    margin-bottom: 10px;
+    height: 25px;
+}
+
+.sbtn{
+    width: 60%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 10px;
+}
+.sbtn:hover{
+    background-color: chartreuse;
+    border-radius: 10px;
+    color: black;
+}
+.vlink{
+    width: 50%;
+    margin-left: 35%;
+    margin-right: 35%;
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+}
+.adlink{
+    float: right;
+}
+.mdltitle{
+    color: black;
+}
